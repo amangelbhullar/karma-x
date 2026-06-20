@@ -19,6 +19,16 @@ Code for the KARMA family of inductive temporal KGR models.
 | KARMA-RL | Soft temporal rule anchors | 0.488 (WIKI-clean) |
 | KARMA+ | Full stack combination | 0.034 (ICEWS14) |
 
+models/
+├── KARMA-base/   model.py  train.py  data_loader.py  evaluate.py
+├── KARMA-T/      model.py  train.py  data_loader.py  evaluate.py
+├── KARMA-A/      model.py  train.py  data_loader.py  evaluate.py
+├── KARMA-C/      model.py  train.py  data_loader.py  evaluate.py
+├── KARMA-F/      model.py  train.py  data_loader.py  evaluate.py
+├── KARMA-R/      model.py  train.py  data_loader.py  evaluate.py
+├── KARMA-RL/     model.py  train.py  data_loader.py  evaluate.py
+└── KARMA-plus/   model.py  train.py  data_loader.py  evaluate.py
+
 ## Novel Metrics
 
 - **U-MRR**: MRR on unseen entities only
