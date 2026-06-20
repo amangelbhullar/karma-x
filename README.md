@@ -1,4 +1,4 @@
-# KARMA-X: Anchor-Attention Encoding for Fully Inductive Temporal Knowledge Graph Reasoning
+# Anchor-Attention Encoding for Fully Inductive Temporal Knowledge Graph Reasoning
 
 Code for the KARMA family of inductive temporal KGR models.
 
